@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3069D7E5-2B72-47B6-B5C9-DF1959320D3E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>PhoneBook_Semester1Project</RootNamespace>
+    <RootNamespace>dummy</RootNamespace>
     <SccProjectName>SAK</SccProjectName>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
