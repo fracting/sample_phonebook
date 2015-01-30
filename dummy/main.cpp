@@ -12,12 +12,27 @@
 #include <math.h>
 #include <WinBase.h>
 #include <stdio.h>
+#include <thread>
 
 using namespace std;
 
+typedef void _Thrd_imp_t;
+
 int main()
 {
-        printf("Hello World!\n");
+    _Thrd_abort();
+    _Thrd_create();
+    _Thrd_current();
+    _Thrd_detach();
+    _Thrd_equal();
+    _Thrd_exit();
+    _Thrd_join();
+    _Thrd_lt();
+    _Thrd_sleep();
+    _Thrd_start();
+    _Thrd_yield();
 
-	return 0;
+    printf("Hello World!\n");
+
+    return 0;
 }
