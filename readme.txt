@@ -1,0 +1,1 @@
+Browse to Debug folder and run PhoneBook_Semester1Project.exe
